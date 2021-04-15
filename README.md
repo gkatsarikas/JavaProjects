@@ -1,2 +1,2 @@
 # JavaProjects
-Beginner-friendly java projects
+Tic-Tac-Toe project 
